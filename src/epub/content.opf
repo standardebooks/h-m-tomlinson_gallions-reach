@@ -53,8 +53,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._M._Tomlinson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50016828</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Charles Manger</dc:contributor>
-		<meta property="file-as" refines="#artist">Manger, Charles</meta>
+		<dc:contributor id="artist">Ivan Konstantinovich Aivazovsky</dc:contributor>
+		<meta property="file-as" refines="#artist">Aivazovsky, Ivan Konstantinovich</meta>
+		<meta property="alternate-script" refines="#artist">Иван Константинович Айвазовский</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ivan_Aivazovsky</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80103821</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
