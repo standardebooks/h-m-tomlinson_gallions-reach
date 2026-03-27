@@ -47,7 +47,7 @@
 		<dc:source>https://archive.org/details/gallionsreach0000toml</dc:source>
 		<meta property="se:word-count">74033</meta>
 		<meta property="se:reading-ease.flesch">76.93</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Gallions_Reach</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Gallions_Reach_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-m-tomlinson_gallions-reach</meta>
 		<dc:creator id="author">H. M. Tomlinson</dc:creator>
 		<meta property="file-as" refines="#author">Tomlinson, H. M.</meta>
